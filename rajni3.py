@@ -23,12 +23,12 @@ print("\033[1;32;37m 2 \033[1;32;33m infinty no limit only Fun \n\n")
 a = int(input("Enter No:    "))
 if a < 2:
         print("WELLCOME")
-        system('python guess.py')
+        system('python rajni.py')
 
 
 elif a < 3:
     print("Wellcome")
-    system('python guess2.py')
+    system('python rajni2.py')
 
 
 
