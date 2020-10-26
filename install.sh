@@ -12,8 +12,8 @@ mv bash.bashrc /data/data/com.termux/files/usr/etc/
 chmod +x /data/data/com.termux/files/usr/etc/bash.bashrc
 
 cd
-mkdir .rajni
-cd .rajni
+mkdir rajni
+cd rajni
 wget https://raw.githubusercontent.com/rajnikantmahato/fun-with-python/main/rajni.py
 
 wget https://raw.githubusercontent.com/rajnikantmahato/fun-with-python/main/rajni2.py
