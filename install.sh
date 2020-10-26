@@ -1,6 +1,7 @@
 apt install python -y
-apt install fish -y
+apt install tree -y
 apt install wget -y
+tree
 cd $PREFIX/bin/
 wget https://raw.githubusercontent.com/rajnikantmahato/fun-with-python/main/rajni
 chmod +x rajni
