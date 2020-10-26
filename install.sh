@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/rajnikantmahato/fun-with-python/main/bash
 mv bash.bashrc /data/data/com.termux/files/usr/etc/
 chmod +x /data/data/com.termux/files/usr/etc/bash.bashrc
 
-
+cd
 
 wget https://raw.githubusercontent.com/rajnikantmahato/fun-with-python/main/rajni.py
 
