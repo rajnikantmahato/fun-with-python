@@ -1,1 +1,3 @@
-python $HOME/.rajni/rajni3.py
+tree
+
+python $HOME/rajni/rajni3.py
